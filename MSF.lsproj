@@ -3,7 +3,7 @@
     "document_id": "I8iA2gJXrPUb_l8Bgg0a",
     "original_document_id": "I8iA2gJXrPUb_l8Bgg0a",
     "version": "29",
-    "lastChanged": "1683675778733",
+    "lastChanged": "1683676741225",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -41,6 +41,10 @@
                     [
                         "Echopark",
                         "Specular"
+                    ],
+                    [
+                        "Scripts",
+                        "StateController"
                     ],
                     [
                         "images"
@@ -103,9 +107,7 @@
         "SceneTreeUiComponent": {
             "collapsedList": [
                 [
-                    "1683674248077904:18052",
                     "1683674473505831:38500",
-                    "1683675013077324:92515",
                     "1683675091343812:101089"
                 ]
             ],
@@ -310,6 +312,14 @@
                     "resId": "26",
                     "uid": "1683675292158097:128776",
                     "name": "Files\/File56.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1683675938009040:197632",
+                    "name": "Files\/File58.js",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -529,7 +539,8 @@
                 "21": "1683675298074193:129645",
                 "22": "1683675300858011:132427",
                 "23": "1683675382196083:147380",
-                "24": "1683675408791494:152124"
+                "24": "1683675408791494:152124",
+                "25": "1683676074164602:208312"
             }
         },
         "LayerComponent": {
@@ -763,6 +774,10 @@
                 {
                     "k": "57",
                     "v": "Files\/File57.png"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.js"
                 }
             ]
         },
@@ -840,6 +855,14 @@
                     {
                         "k": "982",
                         "v": "images\/Time.png"
+                    },
+                    {
+                        "k": "983",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "984",
+                        "v": "Scripts\/StateController.js"
                     }
                 ],
                 "hashes": [
@@ -914,14 +937,18 @@
                     {
                         "k": "982",
                         "v": "0ddbf5a72e6787167e6b4f2c1a3ec635"
+                    },
+                    {
+                        "k": "984",
+                        "v": "b3b05e116b6906deabe983932a98bb5c"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2023-05-09T16:31:24",
+                        "lastModified": "2023-05-09T16:45:32",
                         "name": "Public",
-                        "hash": "ac26f73a098e44324f53d40904004b25",
+                        "hash": "f7dd30c1d8d3a3d2b9db5f482348faa6",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -1023,6 +1050,28 @@
                                     {
                                         "isFolder": "false",
                                         "lastModified": "2023-05-09T16:16:26",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2023-05-09T16:46:26",
+                                "name": "Scripts",
+                                "hash": "992215861703e2ab7804f8e37565db08",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-05-09T16:55:19",
+                                        "name": "StateController.js",
+                                        "hash": "b3b05e116b6906deabe983932a98bb5c",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-05-09T16:45:23",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1369,6 +1418,36 @@
                                 "additional": {
                                     "originHash": "0ddbf5a72e6787167e6b4f2c1a3ec635"
                                 }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "983",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "StateController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "27",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1683675938009040:197632",
+                                "fileId": "58",
+                                "originalId": "18446744073709551615",
+                                "publicId": "984",
+                                "source": "\/Users\/artemis\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioVkHUzdqJvVAU\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
                             }
                         ]
                     }

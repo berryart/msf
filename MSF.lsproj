@@ -3,7 +3,7 @@
     "document_id": "I8iA2gJXrPUb_l8Bgg0a",
     "original_document_id": "I8iA2gJXrPUb_l8Bgg0a",
     "version": "29",
-    "lastChanged": "1683676741225",
+    "lastChanged": "1683677794944",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -41,6 +41,10 @@
                     [
                         "Echopark",
                         "Specular"
+                    ],
+                    [
+                        "Scripts",
+                        "ChallengeController"
                     ],
                     [
                         "Scripts",
@@ -107,7 +111,7 @@
         "SceneTreeUiComponent": {
             "collapsedList": [
                 [
-                    "1683674473505831:38500",
+                    "1517446348227994:84813",
                     "1683675091343812:101089"
                 ]
             ],
@@ -320,6 +324,14 @@
                     "resId": "27",
                     "uid": "1683675938009040:197632",
                     "name": "Files\/File58.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1683676852114759:292335",
+                    "name": "Files\/File59.js",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -778,6 +790,10 @@
                 {
                     "k": "58",
                     "v": "Files\/File58.js"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.js"
                 }
             ]
         },
@@ -863,6 +879,10 @@
                     {
                         "k": "984",
                         "v": "Scripts\/StateController.js"
+                    },
+                    {
+                        "k": "985",
+                        "v": "Scripts\/ChallengeController.js"
                     }
                 ],
                 "hashes": [
@@ -941,6 +961,10 @@
                     {
                         "k": "984",
                         "v": "b3b05e116b6906deabe983932a98bb5c"
+                    },
+                    {
+                        "k": "985",
+                        "v": "0346ce6dc7a5e58b7e05be2fea1fcfe9"
                     }
                 ],
                 "publicState": {
@@ -948,7 +972,7 @@
                         "isFolder": "true",
                         "lastModified": "2023-05-09T16:45:32",
                         "name": "Public",
-                        "hash": "f7dd30c1d8d3a3d2b9db5f482348faa6",
+                        "hash": "d59331c0cdaa4234eb26e9b3d27064ef",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -1058,15 +1082,22 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2023-05-09T16:46:26",
+                                "lastModified": "2023-05-09T17:00:59",
                                 "name": "Scripts",
-                                "hash": "992215861703e2ab7804f8e37565db08",
+                                "hash": "b98f43f54bd99ffce4a5ad939b7c30ce",
                                 "children": [
                                     {
                                         "isFolder": "false",
                                         "lastModified": "2023-05-09T16:55:19",
                                         "name": "StateController.js",
                                         "hash": "b3b05e116b6906deabe983932a98bb5c",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-05-09T17:16:06",
+                                        "name": "ChallengeController.js",
+                                        "hash": "0346ce6dc7a5e58b7e05be2fea1fcfe9",
                                         "children": ""
                                     },
                                     {
@@ -1448,6 +1479,20 @@
                                 "publicId": "984",
                                 "source": "\/Users\/artemis\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioVkHUzdqJvVAU\/\/system\/\/emergencyFiles\/emergencyJs.js",
                                 "additional": ""
+                            },
+                            {
+                                "name": "ChallengeController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "28",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1683676852114759:292335",
+                                "fileId": "59",
+                                "originalId": "18446744073709551615",
+                                "publicId": "985",
+                                "source": "\/Users\/artemis\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioVkHUzdqJvVAU\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
                             }
                         ]
                     }
@@ -1455,7 +1500,11 @@
             }
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "objects": [
+                    "1683674473505831:38500"
+                ]
+            }
         },
         "EffectsController": {
             "1": "",

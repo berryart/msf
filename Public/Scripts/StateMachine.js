@@ -22,18 +22,14 @@ function init() {
 function update() {
   var so = script.getSceneObject().getTransform().up
   var angle = so.angleTo(new vec3(1, 0, 0))
-  if (angle < 1.1) {
+  if (angle < 1.3) {
     emitEvent(STATE.ANSWER_L)
   }
-  else if (angle < 1.9) {
+  else if (angle < 1.7) {
     emitEvent(STATE.CHALLENGE)
   }
   else {
     emitEvent(STATE.ANSWER_R)
-  }
-
-  if (state == STATE.RESULT) {
-    newChallenge()
   }
 }
 
@@ -53,12 +49,8 @@ function emitEvent(newState) {
     return
 
   if ((state == STATE.CHALLENGE && newState == STATE.ANSWER_L) || (state == STATE.CHALLENGE && newState == STATE.ANSWER_R)) {
+    script.stateUpdated(newState)
     state = STATE.RESULT
-    stateUpdated(state)
-  }
-
-  if (state == STATE.RESULT && newState == STATE.CHALLENGE) {
-    newChallenge()
   }
 }
 
@@ -68,5 +60,11 @@ function stateUpdated(newState) {
 }
 
 
+function restart() {
+  state = STATE.CHALLENGE
+}
+
+
 script.stateUpdated = stateUpdated
+script.restart = restart
 init()

@@ -2,6 +2,7 @@
 //@input Component.Text leftText
 //@input Component.Text rightText
 //@input Component.ScriptComponent stateController
+//@input Component.ScriptComponent stateMachine
 //@input Component.Image leftImage
 //@input Component.Image rightImage
 //@input Asset.Material defaultMat
@@ -68,6 +69,8 @@ function generateTask() {
   if (challengeCount >= countLimit) {
     completeChallenge(solved, time)
   }
+
+  script.stateMachine.restart()
 }
 
 
@@ -107,10 +110,14 @@ function completeChallenge() {
 
 
 function onStateUpdated(state) {
-  print("New state: " + state)
+  if (state == 1)
+    getAnswer(true)
+  else if (state == 2)
+    getAnswer(false)
 }
 
 
+script.stateMachine.stateUpdated = onStateUpdated
 script.completeChallenge = completeChallenge
 script.restart = restart
 init()

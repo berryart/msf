@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "Materials/Unlit.lsmat",
-                "hash": "a1fdee59cdbe9702afb2ff517461d73d"
+                "hash": "079dd45bd48d13b23f9a838b5e9cca21"
             }
         }
     }

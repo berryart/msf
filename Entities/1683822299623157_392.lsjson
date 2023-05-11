@@ -9,7 +9,7 @@
             "uid": "1683676852114759:292335",
             "fileId": "1683822299623267:447",
             "publicId": "1683822299623279:465",
-            "expected_hash": "e8df2318106a76f11446cea8cb39bc2f"
+            "expected_hash": "f0036f7bc95479f09397097be0addcc4"
         },
         "IResourceManager": {
             "uid": "1683676852114759:292335",
@@ -26,7 +26,7 @@
         "IResourceController": {
             "public": {
                 "path": "Scripts/ChallengeController.js",
-                "hash": "e8df2318106a76f11446cea8cb39bc2f"
+                "hash": "f0036f7bc95479f09397097be0addcc4"
             }
         }
     }

@@ -14,7 +14,7 @@
             "uid": "1683835119480859:1955532",
             "fileId": "1683835119464587:1955530",
             "publicId": "1683835119492214:1955537",
-            "expected_hash": "434f34f53bf7425d93af184aa82638fc"
+            "expected_hash": "3c2a5ba314c297633fed14d4378b9710"
         },
         "IResourceManager": {
             "uid": "1683835119480859:1955532",
@@ -26,7 +26,7 @@
         "IResourceController": {
             "public": {
                 "path": "Scripts/StateMachine.js",
-                "hash": "434f34f53bf7425d93af184aa82638fc"
+                "hash": "3c2a5ba314c297633fed14d4378b9710"
             }
         }
     }

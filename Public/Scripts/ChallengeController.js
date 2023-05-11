@@ -45,7 +45,7 @@ function generateTask() {
   var n2 = Math.floor(Math.random() * 9)
   var n3 = Math.floor(Math.random() * 99)
 
-  script.taskText.text = n1 + "x" + n2
+  script.taskText.text = n1 + " x " + n2
   
   var lr = Math.random()
   if (lr > 0.5) {

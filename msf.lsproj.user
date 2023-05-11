@@ -19,9 +19,6 @@
         "collapsedList": [
             [
                 [
-                    "Def"
-                ],
-                [
                     "Echopark"
                 ],
                 [
@@ -33,7 +30,41 @@
                     "Specular"
                 ],
                 [
+                    "Fonts"
+                ],
+                [
+                    "Fonts",
+                    "Segoe UI Bold"
+                ],
+                [
+                    "Materials"
+                ],
+                [
+                    "Materials",
+                    "Color Correction 2"
+                ],
+                [
+                    "Materials",
+                    "Color Gradient"
+                ],
+                [
+                    "Materials",
+                    "Default Button"
+                ],
+                [
+                    "Materials",
                     "Right"
+                ],
+                [
+                    "Materials",
+                    "Unlit"
+                ],
+                [
+                    "Materials",
+                    "Wrong"
+                ],
+                [
+                    "Scripts"
                 ],
                 [
                     "Scripts",
@@ -52,7 +83,22 @@
                     "StateMachine"
                 ],
                 [
-                    "Wrong"
+                    "Textures"
+                ],
+                [
+                    "Textures",
+                    "Beauty"
+                ],
+                [
+                    "Textures",
+                    "Portrait Background Segmentation"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture"
+                ],
+                [
+                    "images"
                 ],
                 [
                     "images",
@@ -69,6 +115,10 @@
                 [
                     "images",
                     "GAME OVER"
+                ],
+                [
+                    "images",
+                    "Group"
                 ],
                 [
                     "images",
@@ -113,7 +163,8 @@
         "collapsedList": [
             [
                 "1517446348227994:84813",
-                "1683675091343812:101089"
+                "1683674248077904:18052",
+                "1683675013077324:92515"
             ]
         ],
         "selectionSetList": {}
@@ -137,15 +188,14 @@
     "IResourceController": {
         "sourcePaths": {
             "1683835119468173:1955531": "C:/Users/Artem/AppData/Local/Snap/Lens Studio/cache/temp/StudioGnpatoBuvUKS//system//emergencyFiles/emergencyJs.js",
-            "1683835686381857:2041676": "C:/Users/Artem/AppData/Local/Snap/Lens Studio/cache/temp/StudiombYenVMvNYbs//system//emergencyFiles/emergencyJs.js"
+            "1683835686381857:2041676": "C:/Users/Artem/AppData/Local/Snap/Lens Studio/cache/temp/StudiombYenVMvNYbs//system//emergencyFiles/emergencyJs.js",
+            "1683843054584969:3264006": "C:/Users/Artem/Downloads/Group.png",
+            "1683843468861325:3334282": "C:/Users/Artem/AppData/Local/Snap/Lens Studio/cache/temp/StudiombYenVMvNYbs//system//emergencyFiles/emergencyJpg.jpg",
+            "1683843699252888:3370944": "C:/Users/Artem/AppData/Local/Temp/Rar$DRa30308.18157/Segoe UI Bold.ttf"
         }
     },
     "InspectorController": {
-        "selection": {
-            "objects": [
-                "1683676074164602:208312"
-            ]
-        }
+        "selection": null
     },
     "ObjectPrefabController": {},
     "ObjectTracking3DController": {}

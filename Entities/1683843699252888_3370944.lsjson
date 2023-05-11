@@ -1,0 +1,33 @@
+{
+    "1683843699248501:3370943": {
+        "IFileManager": {
+            "path": "Files/File_1683843699248501_3370943.ttf"
+        }
+    },
+    "1683843699252888:3370944": {
+        "IResourceController": {
+            "name": "Segoe UI Bold",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683843699253279:3370945",
+            "fileId": "1683843699248501:3370943",
+            "publicId": "1683843699269719:3370950",
+            "expected_hash": "65099f98c7cb19b3dac57b15a6a708cf"
+        },
+        "IResourceManager": {
+            "uid": "1683843699253279:3370945",
+            "name": "Files/File_1683843699248501_3370943.ttf",
+            "flags": 1
+        }
+    },
+    "1683843699269719:3370950": {
+        "IResourceController": {
+            "public": {
+                "path": "Fonts/Segoe UI Bold.ttf",
+                "hash": "65099f98c7cb19b3dac57b15a6a708cf"
+            }
+        }
+    }
+}

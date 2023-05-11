@@ -6,7 +6,7 @@
     },
     "1683839566388964:2674571": {
         "IResourceController": {
-            "name": "Def",
+            "name": "Default Button",
             "type": 2,
             "subtype": 1,
             "dependency": 0,
@@ -31,8 +31,8 @@
     "1683839566884611:2674692": {
         "IResourceController": {
             "public": {
-                "path": "Def.lsmat",
-                "hash": "d3083a54b04190a1cc62d5219df29606"
+                "path": "Materials/Default Button.lsmat",
+                "hash": "089369f75e3486b76eace7c32ed0d313"
             }
         }
     }

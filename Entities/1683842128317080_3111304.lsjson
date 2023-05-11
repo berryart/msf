@@ -31,8 +31,8 @@
     "1683842128454809:3111318": {
         "IResourceController": {
             "public": {
-                "path": "Wrong.lsmat",
-                "hash": "965b6be62d5210210182209f93cb2a76"
+                "path": "Materials/Wrong.lsmat",
+                "hash": "3917ee9c8e9f7c048ab64101f5a24e04"
             }
         }
     }

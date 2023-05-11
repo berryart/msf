@@ -31,8 +31,8 @@
     "1683839585258080:2677916": {
         "IResourceController": {
             "public": {
-                "path": "Right.lsmat",
-                "hash": "6c994dda16a473d6b4039d9b1f4193d3"
+                "path": "Materials/Right.lsmat",
+                "hash": "df5ce2d4b5004f0756c96e15dcea9af4"
             }
         }
     }

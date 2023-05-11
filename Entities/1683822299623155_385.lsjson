@@ -1,0 +1,79 @@
+{
+    "1683674998400890:90687": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "a0b4c920e1b2973530e66fb436f87900"
+                    },
+                    "v": "1683822299623237:429"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "5040",
+                "compressedSize": "2896",
+                "extension": "png",
+                "originalRAM": "40032",
+                "originalSize": "2908",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683822299623235:428"
+        }
+    },
+    "1683822299623155:385": {
+        "IResourceController": {
+            "name": "GAME OVER",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683674998400890:90687",
+            "fileId": "1683822299623233:426",
+            "originalId": "1683822299623234:427",
+            "publicId": "1683822299623276:457",
+            "expected_hash": "7305e4c859d2b25f42e1a56cdbaa18ec",
+            "additional": {
+                "originHash": "a0b4c920e1b2973530e66fb436f87900"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683674998400890:90687",
+            "name": "Files/File38.png",
+            "flags": 1
+        }
+    },
+    "1683822299623233:426": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623233_426.pvr"
+        }
+    },
+    "1683822299623234:427": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623234_427.png"
+        }
+    },
+    "1683822299623235:428": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623235_428.png"
+        }
+    },
+    "1683822299623237:429": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623237_429.pvr"
+        }
+    },
+    "1683822299623276:457": {
+        "IResourceController": {
+            "public": {
+                "path": "images/GAME OVER.png",
+                "hash": "a0b4c920e1b2973530e66fb436f87900"
+            }
+        }
+    }
+}

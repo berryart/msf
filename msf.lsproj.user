@@ -1,0 +1,152 @@
+{
+    "InspectorUiComponent": {
+        "collapsedList": [
+            [
+                "1683674473505831:38500"
+            ]
+        ]
+    },
+    "MapUiComponent": {},
+    "Material::UiComponent": {
+        "active_graph_asset": "1683839566396059:2674572"
+    },
+    "MetaInfoUIComponent": {},
+    "ObjectTracking3DUIComponent": {
+        "foldedOwnerSceneObjects": []
+    },
+    "PreviewUiComponent": {},
+    "ResourceUiComponent": {
+        "collapsedList": [
+            [
+                [
+                    "Def"
+                ],
+                [
+                    "Echopark"
+                ],
+                [
+                    "Echopark",
+                    "Diff"
+                ],
+                [
+                    "Echopark",
+                    "Specular"
+                ],
+                [
+                    "Right"
+                ],
+                [
+                    "Scripts",
+                    "ChallengeController"
+                ],
+                [
+                    "Scripts",
+                    "Script"
+                ],
+                [
+                    "Scripts",
+                    "StateController"
+                ],
+                [
+                    "Scripts",
+                    "StateMachine"
+                ],
+                [
+                    "Wrong"
+                ],
+                [
+                    "images",
+                    "Answer_BG"
+                ],
+                [
+                    "images",
+                    "Answer_Rigth_BG"
+                ],
+                [
+                    "images",
+                    "Answer_Wrong_BG"
+                ],
+                [
+                    "images",
+                    "GAME OVER"
+                ],
+                [
+                    "images",
+                    "LG_Button"
+                ],
+                [
+                    "images",
+                    "LG_Button_Pressed"
+                ],
+                [
+                    "images",
+                    "Logo"
+                ],
+                [
+                    "images",
+                    "Solved"
+                ],
+                [
+                    "images",
+                    "Task_BG"
+                ],
+                [
+                    "images",
+                    "Time"
+                ],
+                [
+                    "images",
+                    "scoreboardBlack"
+                ],
+                [
+                    "images",
+                    "tryAgain_green"
+                ],
+                [
+                    "images",
+                    "tryAgain_grey"
+                ]
+            ]
+        ]
+    },
+    "SceneTreeUiComponent": {
+        "collapsedList": [
+            [
+                "1517446348227994:84813",
+                "1683675091343812:101089"
+            ]
+        ],
+        "selectionSetList": {}
+    },
+    "Script::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "VFX::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "IFileManager": {},
+    "IResourceManager": {},
+    "InspectorComponent": {},
+    "LayerComponent": {},
+    "RemoteApi::ModelManager": {},
+    "RenderOrderComponent": {},
+    "WorldComponent": {},
+    "AssetImportController": {},
+    "Compression::IController": {},
+    "DigitalGoodsController": {},
+    "IResourceController": {
+        "sourcePaths": {
+            "1683835119468173:1955531": "C:/Users/Artem/AppData/Local/Snap/Lens Studio/cache/temp/StudioGnpatoBuvUKS//system//emergencyFiles/emergencyJs.js",
+            "1683835686381857:2041676": "C:/Users/Artem/AppData/Local/Snap/Lens Studio/cache/temp/StudiombYenVMvNYbs//system//emergencyFiles/emergencyJs.js"
+        }
+    },
+    "InspectorController": {
+        "selection": {
+            "objects": [
+                "1683676074164602:208312"
+            ]
+        }
+    },
+    "ObjectPrefabController": {},
+    "ObjectTracking3DController": {}
+}

@@ -1,0 +1,79 @@
+{
+    "1683675082392686:99229": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "5d4d515912bf379522945127168ea730"
+                    },
+                    "v": "1683822299623244:433"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "40896",
+                "compressedSize": "1622",
+                "extension": "png",
+                "originalRAM": "320920",
+                "originalSize": "4474",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683822299623242:432"
+        }
+    },
+    "1683822299623156:386": {
+        "IResourceController": {
+            "name": "scoreboardBlack",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683675082392686:99229",
+            "fileId": "1683822299623239:430",
+            "originalId": "1683822299623241:431",
+            "publicId": "1683822299623277:458",
+            "expected_hash": "be5dd645bc298b0cf684cfda38eec560",
+            "additional": {
+                "originHash": "5d4d515912bf379522945127168ea730"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683675082392686:99229",
+            "name": "Files/File42.png",
+            "flags": 1
+        }
+    },
+    "1683822299623239:430": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623239_430.pvr"
+        }
+    },
+    "1683822299623241:431": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623241_431.png"
+        }
+    },
+    "1683822299623242:432": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623242_432.png"
+        }
+    },
+    "1683822299623244:433": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623244_433.pvr"
+        }
+    },
+    "1683822299623277:458": {
+        "IResourceController": {
+            "public": {
+                "path": "images/scoreboardBlack.png",
+                "hash": "5d4d515912bf379522945127168ea730"
+            }
+        }
+    }
+}

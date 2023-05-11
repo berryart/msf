@@ -1,0 +1,79 @@
+{
+    "1683675168845314:112036": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "4c00ca69ffe44b12e644d410cc2b960f"
+                    },
+                    "v": "1683822299623258:441"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "12848",
+                "compressedSize": "5390",
+                "extension": "png",
+                "originalRAM": "101728",
+                "originalSize": "19929",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683822299623256:440"
+        }
+    },
+    "1683822299623156:388": {
+        "IResourceController": {
+            "name": "tryAgain_green",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683675168845314:112036",
+            "fileId": "1683822299623253:438",
+            "originalId": "1683822299623255:439",
+            "publicId": "1683822299623277:460",
+            "expected_hash": "1b2cba4c006ea37984e7c812f1a57990",
+            "additional": {
+                "originHash": "4c00ca69ffe44b12e644d410cc2b960f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683675168845314:112036",
+            "name": "Files/File50.png",
+            "flags": 1
+        }
+    },
+    "1683822299623253:438": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623253_438.pvr"
+        }
+    },
+    "1683822299623255:439": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623255_439.png"
+        }
+    },
+    "1683822299623256:440": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623256_440.png"
+        }
+    },
+    "1683822299623258:441": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623258_441.pvr"
+        }
+    },
+    "1683822299623277:460": {
+        "IResourceController": {
+            "public": {
+                "path": "images/tryAgain_green.png",
+                "hash": "4c00ca69ffe44b12e644d410cc2b960f"
+            }
+        }
+    }
+}

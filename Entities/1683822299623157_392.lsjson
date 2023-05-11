@@ -1,0 +1,33 @@
+{
+    "1683822299623157:392": {
+        "IResourceController": {
+            "name": "ChallengeController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683676852114759:292335",
+            "fileId": "1683822299623267:447",
+            "publicId": "1683822299623279:465",
+            "expected_hash": "885198fa17416763153acdf8d0a55ef9"
+        },
+        "IResourceManager": {
+            "uid": "1683676852114759:292335",
+            "name": "Files/File_1683822299623267_447.js",
+            "flags": 1
+        }
+    },
+    "1683822299623267:447": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623267_447.js"
+        }
+    },
+    "1683822299623279:465": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/ChallengeController.js",
+                "hash": "885198fa17416763153acdf8d0a55ef9"
+            }
+        }
+    }
+}

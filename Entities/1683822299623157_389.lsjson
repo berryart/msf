@@ -1,0 +1,42 @@
+{
+    "1683822299623157:389": {
+        "IResourceController": {
+            "name": "Solved",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683675288664500:128078",
+            "fileId": "1683822299623259:442",
+            "originalId": "1683822299623261:443",
+            "publicId": "1683822299623278:461",
+            "expected_hash": "d0be20c54144b6679c3d4729fd178159",
+            "additional": {
+                "originHash": "d0be20c54144b6679c3d4729fd178159"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683675288664500:128078",
+            "name": "Files/File_1683822299623259_442.png",
+            "flags": 1
+        }
+    },
+    "1683822299623259:442": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623259_442.png"
+        }
+    },
+    "1683822299623261:443": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623261_443.png"
+        }
+    },
+    "1683822299623278:461": {
+        "IResourceController": {
+            "public": {
+                "path": "images/Solved.png",
+                "hash": "d0be20c54144b6679c3d4729fd178159"
+            }
+        }
+    }
+}

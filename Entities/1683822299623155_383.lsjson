@@ -1,0 +1,79 @@
+{
+    "1683674695018147:56016": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "9728ff017dc3d38f576d237de2ce92e0"
+                    },
+                    "v": "1683822299623224:421"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "30000",
+                "compressedSize": "14017",
+                "extension": "png",
+                "originalRAM": "238800",
+                "originalSize": "39060",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683822299623222:420"
+        }
+    },
+    "1683822299623155:383": {
+        "IResourceController": {
+            "name": "Answer_Rigth_BG",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683674695018147:56016",
+            "fileId": "1683822299623218:418",
+            "originalId": "1683822299623220:419",
+            "publicId": "1683822299623276:455",
+            "expected_hash": "e25c1746321d4c343e0d1195514b22e9",
+            "additional": {
+                "originHash": "9728ff017dc3d38f576d237de2ce92e0"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683674695018147:56016",
+            "name": "Files/File30.png",
+            "flags": 1
+        }
+    },
+    "1683822299623218:418": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623218_418.pvr"
+        }
+    },
+    "1683822299623220:419": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623220_419.png"
+        }
+    },
+    "1683822299623222:420": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623222_420.png"
+        }
+    },
+    "1683822299623224:421": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623224_421.pvr"
+        }
+    },
+    "1683822299623276:455": {
+        "IResourceController": {
+            "public": {
+                "path": "images/Answer_Rigth_BG.png",
+                "hash": "9728ff017dc3d38f576d237de2ce92e0"
+            }
+        }
+    }
+}

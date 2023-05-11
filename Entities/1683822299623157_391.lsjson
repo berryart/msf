@@ -1,0 +1,33 @@
+{
+    "1683822299623157:391": {
+        "IResourceController": {
+            "name": "StateController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683675938009040:197632",
+            "fileId": "1683822299623265:446",
+            "publicId": "1683822299623279:464",
+            "expected_hash": "30313073c08aec860bf1ef319fb75e9d"
+        },
+        "IResourceManager": {
+            "uid": "1683675938009040:197632",
+            "name": "Files/File_1683822299623265_446.js",
+            "flags": 1
+        }
+    },
+    "1683822299623265:446": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623265_446.js"
+        }
+    },
+    "1683822299623279:464": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/StateController.js",
+                "hash": "30313073c08aec860bf1ef319fb75e9d"
+            }
+        }
+    }
+}

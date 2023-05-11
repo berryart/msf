@@ -1,0 +1,79 @@
+{
+    "1683674344235196:25764": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "334f40916f8256044394d36343fa1b4b"
+                    },
+                    "v": "1683822299623198:405"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "10120",
+                "compressedSize": "7555",
+                "extension": "png",
+                "originalRAM": "78840",
+                "originalSize": "21024",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683822299623196:404"
+        }
+    },
+    "1683822299623153:379": {
+        "IResourceController": {
+            "name": "LG_Button",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683674344235196:25764",
+            "fileId": "1683822299623192:402",
+            "originalId": "1683822299623195:403",
+            "publicId": "1683822299623274:451",
+            "expected_hash": "8ce448d22d68863d72e8621acc29069d",
+            "additional": {
+                "originHash": "334f40916f8256044394d36343fa1b4b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683674344235196:25764",
+            "name": "Files/File12.png",
+            "flags": 1
+        }
+    },
+    "1683822299623192:402": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623192_402.pvr"
+        }
+    },
+    "1683822299623195:403": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623195_403.png"
+        }
+    },
+    "1683822299623196:404": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623196_404.png"
+        }
+    },
+    "1683822299623198:405": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623198_405.pvr"
+        }
+    },
+    "1683822299623274:451": {
+        "IResourceController": {
+            "public": {
+                "path": "images/LG_Button.png",
+                "hash": "334f40916f8256044394d36343fa1b4b"
+            }
+        }
+    }
+}

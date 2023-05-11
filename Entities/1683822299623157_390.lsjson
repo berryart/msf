@@ -1,0 +1,42 @@
+{
+    "1683822299623157:390": {
+        "IResourceController": {
+            "name": "Time",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683675292158097:128776",
+            "fileId": "1683822299623262:444",
+            "originalId": "1683822299623264:445",
+            "publicId": "1683822299623278:462",
+            "expected_hash": "0ddbf5a72e6787167e6b4f2c1a3ec635",
+            "additional": {
+                "originHash": "0ddbf5a72e6787167e6b4f2c1a3ec635"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683675292158097:128776",
+            "name": "Files/File_1683822299623262_444.png",
+            "flags": 1
+        }
+    },
+    "1683822299623262:444": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623262_444.png"
+        }
+    },
+    "1683822299623264:445": {
+        "IFileManager": {
+            "path": "Files/File_1683822299623264_445.png"
+        }
+    },
+    "1683822299623278:462": {
+        "IResourceController": {
+            "public": {
+                "path": "images/Time.png",
+                "hash": "0ddbf5a72e6787167e6b4f2c1a3ec635"
+            }
+        }
+    }
+}
